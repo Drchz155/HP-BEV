@@ -1,0 +1,1 @@
++experiment=gkt_nuscenes_vehicle_kernel_7x1.yaml  data.dataset_dir=G:\\cross_view_transformers-master1\\media\\datasets\\nuscenes data.labels_dir=G:\\cross_view_transformers-master\\media\\datasets\\cvt_labels_nuscenes
